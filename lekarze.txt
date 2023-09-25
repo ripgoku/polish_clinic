@@ -1,0 +1,12 @@
+1;Ludwik;Janik;85050577319;2845507;lekarz;Pediatria;ja.lud@poczta.com;551737384;08:00-16:00;08:00-16:00;08:00-15:00;08:00-15:00;10:00-16:00;-;-
+2;Marcelina;Stasiak;60020473640;1990982;lekarz;Dermatologia i wenerologia;stasik.m@poczta.com;549160508;11:30-19:00;07:30-14:00;10:00-19:00;07:30-14:00;09:00-19:00;-;-
+3;Wlodzimierz;Duda;89100336431;1990982;lekarz;Okulistyka;duda.w@poczta.com;637675015;-;11:00-18:00;08:00-12:00;08:00-12:00;08:00-12:00;-;-
+4;Emilia;Laskowska;94060151268;4001070;lekarz;Poloznictwo i ginekologia;las.em@poczta.com;512983692;11:00-18:00;07:00-14:35;07:00-14:35;07:00-14:35;07:00-14:35;-;-
+5;Julian;Lukasik;74120385839;1587299;lekarz;Psychiatria;julu@poczta.com;790492876;10:00-18:00;10:00-18:00;10:00-18:00;09:00-16:00;09.00-16.00;-;-
+6;Szymon;Kazmierczak;78020156139;7126497;lekarz;Choroby zakazne;szymon.kaz@poczta.com;563023321;08:00-13:00;08:00-13:00;08:00-13:00;11:00-18:00;-;-;-
+7;Dorota;Czarnecka;77010775589;9866164;lekarz;Choroby wewnetrzne;czardo@poczta.com;719700258;15:30-18:30;07:30-11:30;14:00-18:00;-;14:00-18:00;-;-
+8;Lidia;Luczak;83012738664;5425740;lekarz;Endokrynologia;lulid@poczta.com;520889602;-;-;14:00-20:00;14:00-20:00;-;-;-
+9;Svitlana;Sosnowska;78050640367;2189375;lekarz;Kardiologia;sosna.svi@poczta.com;542025478;-;12:00-18:00;08:00-14:30;-;08:00-14:30;-;-
+10;Alexander;Wrona;63090248435;8263514;lekarz;Medycyna pracy;alex.wrona@poczta.com;543217757;08:00-13:00;08:00-13:00;08:00-13:00;08:00-13:00;08:00-13:00;-;-
+11;Svitlana;Sosnowska;78050640367;2189375;lekarz;Kardiologia;sosna.svi@poczta.com;542025478;-;12:00-18:00;08:00-14:30;-;08:00-14:30;-;-
+12;Alexander;Wrona;63090248435;8263514;lekarz;Medycyna pracy;alex.wrona@poczta.com;543217757;08:00-13:00;08:00-13:00;08:00-13:00;08:00-13:00;08:00-13:00;-;-
