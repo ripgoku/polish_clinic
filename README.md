@@ -7,6 +7,5 @@ The project has already been submitted and assessed, therefore it will not be de
 **INFORMATION**<br/>
 The program is written in the C language.<br/>
 The data used as test data is random.
-
 <br /><br />
 Thank you for your attention. :3
